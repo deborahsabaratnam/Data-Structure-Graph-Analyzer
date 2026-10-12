@@ -17,7 +17,8 @@ public class Main {
             System.out.println("2. Searching Algorithms");
             System.out.println("3. Stack Operations");
             System.out.println("4. Queue Operations");
-            System.out.println("5. Exit");
+            System.out.println("5. Performance Comparison");
+            System.out.println("6. Exit");
             System.out.print("Enter your choice: ");
 
             choice = readInt();
@@ -36,13 +37,16 @@ public class Main {
                     queueMenu();
                     break;
                 case 5:
+                    PerformanceComparison.compareSearchingAlgorithms();
+                    break;
+                case 6:
                     System.out.println("Exiting program. Goodbye!");
                     break;
                 default:
                     System.out.println("Invalid choice. Try again.");
             }
 
-        } while (choice != 5);
+        } while (choice != 6);
 
         scanner.close();
     }
