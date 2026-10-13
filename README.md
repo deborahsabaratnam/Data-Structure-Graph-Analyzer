@@ -59,18 +59,9 @@ The project demonstrates the implementation and use of different data structures
 ## 4. Project Structure
 
 Data-Structure-Graph-Analyzer/
-├── src/
-│   └── datastructures/
-│       ├── Main.java
-│       ├── ArrayOperations.java
-│       ├── Searching.java
-│       ├── Stack.java
-│       ├── Queue.java
-│       ├── Node.java
-│       ├── LinkedList.java
-│       ├── Graph.java
-│       └── PerformanceComparison.java
-└── README.md
+src / datastructures-> Main.java, ArrayOperations.java, Searching.java, Stack.java, Queue.java, Node.java, LinkedList.java, Graph.java, PerformanceComparison.java
+
+README.md
 
 ## 5. How to Compile and Run
 
