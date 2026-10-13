@@ -81,6 +81,7 @@ Data-Structure-Graph-Analyzer/
 ## 6. Team Members and Responsibilities
 
 | Team Member            | Student ID   | Assigned Responsibility                       | Main Files                               |
+
 | G.A.Siyumi Hansika     | 23DA2-0286   | Array operations and searching algorithms     | ArrayOperations.java, Searching.java     |
 | Wathmi Sandeepa        | 23DA2-0332   | Stack and queue implementation                | Stack.java, Queue.java                 |
 | Fatima Shifara         | 23DA2-0328   | Linked list implementation                    | LinkedList.java, Node.java               |
